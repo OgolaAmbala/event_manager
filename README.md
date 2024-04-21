@@ -1,1 +1,1 @@
-# event_manager
+Odin Project event_manager tutorial
